@@ -1049,4 +1049,28 @@ PRODUCT_COPY_FILES += \
         vendor/xiaomi/leo/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
         vendor/xiaomi/leo/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
         vendor/xiaomi/leo/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-        vendor/xiaomi/leo/proprietary/etc/firmware/wlan/qca_cld/WCNSS_cfg.dat:system/etc/firmware/wlan/qca_cld/WCNSS_cfg.dat
+        vendor/xiaomi/leo/proprietary/etc/firmware/wlan/qca_cld/WCNSS_cfg.dat:system/etc/firmware/wlan/qca_cld/WCNSS_cfg.dat \
+        vendor/xiaomi/leo/proprietary/lib/modules/ansi_cprng.ko:system/lib/modules/ansi_cprng.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/core_ctl.ko:system/lib/modules/core_ctl.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/evbug.ko:system/lib/modules/evbug.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/gpio_axis.ko:system/lib/modules/gpio_axis.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/gpio_event.ko:system/lib/modules/gpio_event.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/gpio_input.ko:system/lib/modules/gpio_input.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/gpio_matrix.ko:system/lib/modules/gpio_matrix.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/gpio_output.ko:system/lib/modules/gpio_output.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/gspca_main.ko:system/lib/modules/gspca_main.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/mcDrvModule.ko:system/lib/modules/mcDrvModule.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/mcKernelApi.ko:system/lib/modules/mcKernelApi.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/mmc_block_test.ko:system/lib/modules/mmc_block_test.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/mmc_test.ko:system/lib/modules/mmc_test.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/msm-buspm-dev.ko:system/lib/modules/msm-buspm-dev.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/msm-buspm-dev.ko:system/lib/modules/msm-buspm-dev.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/qca_cld/qca_cld_wlan.ko:system/lib/modules/qca_cld/qca_cld_wlan.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/qca_cld_wlan.ko:system/lib/modules/qca_cld_wlan.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/qcrypto_module.ko:system/lib/modules/qcrypto_module.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/qdrbg_module.ko:system/lib/modules/qdrbg_module.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/spidev.ko:system/lib/modules/spidev.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/test-iosched.ko:system/lib/modules/test-iosched.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/ufs_test.ko:system/lib/modules/ufs_test.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/wil6210.ko:system/lib/modules/wil6210.ko \
+        vendor/xiaomi/leo/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
