@@ -1001,4 +1001,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/lib/libimscamera_jni.so:system/lib/libimscamera_jni.so \
     vendor/xiaomi/leo/proprietary/app/ims/lib/arm64/libimsmedia_jni.so:system/app/ims/lib/arm64/libimsmedia_jni.so \
     vendor/xiaomi/leo/proprietary/lib64/libimsmedia_jni.so:system/lib64/libimsmedia_jni.so \
-    vendor/xiaomi/leo/proprietary/lib/libimsmedia_jni.so:system/lib/libimsmedia_jni.so 
+    vendor/xiaomi/leo/proprietary/lib/libimsmedia_jni.so:system/lib/libimsmedia_jni.so \
+    vendor/xiaomi/leo/proprietary/app/DataConnector/lib/arm/liblenovo-image.so:system/app/DataConnector/lib/arm/liblenovo-image.so \
+    vendor/xiaomi/leo/proprietary/app/DataConnector/lib/arm/liblenovo-xdelta.so:system/app/DataConnector/lib/arm/liblenovo-xdelta.so \
+    vendor/xiaomi/leo/proprietary/app/DataConnector/lib/arm/liblocSDK6a.so:system/app/DataConnector/lib/arm/liblocSDK6a.so \
+    vendor/xiaomi/leo/proprietary/app/DataConnector/lib/arm/libweibosdkcore.so:system/app/DataConnector/lib/arm/libweibosdkcore.so \
+    vendor/xiaomi/leo/proprietary/app/DataConnector/lib/arm64/liblocSDK6a.so:system/app/DataConnector/lib/arm64/liblocSDK6a.so \
+    vendor/xiaomi/leo/proprietary/app/DataConnector/lib/arm64/liblenovo-xdelta.so:system/app/DataConnector/lib/arm64/liblenovo-xdelta.so
