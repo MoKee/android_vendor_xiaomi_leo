@@ -20,10 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/xiaomi/leo/proprietary/bin/energy-awareness:system/bin/energy-awareness \
     vendor/xiaomi/leo/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/xiaomi/leo/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/xiaomi/leo/proprietary/bin/imscmservice:system/bin/imscmservice \
-    vendor/xiaomi/leo/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
-    vendor/xiaomi/leo/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
     vendor/xiaomi/leo/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/xiaomi/leo/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/xiaomi/leo/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
@@ -41,9 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/xiaomi/leo/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/xiaomi/leo/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
-    vendor/xiaomi/leo/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
-    vendor/xiaomi/leo/proprietary/bin/perfd:system/bin/perfd \
-    vendor/xiaomi/leo/proprietary/bin/thermal-engine:system/bin/thermal-engine \
+    vendor/xiaomi/libra/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
     vendor/xiaomi/leo/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
     vendor/xiaomi/leo/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/xiaomi/leo/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
@@ -113,9 +108,13 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/xiaomi/leo/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/xiaomi/leo/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
+    vendor/xiaomi/leo/proprietary/vendor/bin/chamomile_provision:system/vendor/bin/chamomile_provision \
+    vendor/xiaomi/leo/proprietary/vendor/bin/fidodaemon:system/vendor/bin/fidodaemon \
+    vendor/xiaomi/leo/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/xiaomi/leo/proprietary/vendor/bin/qti:system/vendor/bin/qti \
     vendor/xiaomi/leo/proprietary/vendor/bin/RIDLClient.exe:system/vendor/bin/RIDLClient.exe \
     vendor/xiaomi/leo/proprietary/vendor/bin/sampleauthdaemon:system/vendor/bin/sampleauthdaemon \
+    vendor/xiaomi/leo/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/xiaomi/leo/proprietary/vendor/etc/audio_effects.conf:system/vendor/etc/audio_effects.conf \
     vendor/xiaomi/leo/proprietary/vendor/etc/audio_output_policy.conf:system/vendor/etc/audio_output_policy.conf \
     vendor/xiaomi/leo/proprietary/vendor/etc/diracmobile.config:system/vendor/etc/diracmobile.config \
