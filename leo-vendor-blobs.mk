@@ -1001,4 +1001,5 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/lib/libimscamera_jni.so:system/lib/libimscamera_jni.so \
     vendor/xiaomi/leo/proprietary/app/ims/lib/arm64/libimsmedia_jni.so:system/app/ims/lib/arm64/libimsmedia_jni.so \
     vendor/xiaomi/leo/proprietary/lib64/libimsmedia_jni.so:system/lib64/libimsmedia_jni.so \
-    vendor/xiaomi/leo/proprietary/lib/libimsmedia_jni.so:system/lib/libimsmedia_jni.so 
+    vendor/xiaomi/leo/proprietary/lib/libimsmedia_jni.so:system/lib/libimsmedia_jni.so \
+    vendor/xiaomi/leo/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant
