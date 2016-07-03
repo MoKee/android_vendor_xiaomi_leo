@@ -1007,5 +1007,4 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/app/DataConnector/lib/arm/liblocSDK6a.so:system/app/DataConnector/lib/arm/liblocSDK6a.so \
     vendor/xiaomi/leo/proprietary/app/DataConnector/lib/arm/libweibosdkcore.so:system/app/DataConnector/lib/arm/libweibosdkcore.so \
     vendor/xiaomi/leo/proprietary/app/DataConnector/lib/arm64/liblocSDK6a.so:system/app/DataConnector/lib/arm64/liblocSDK6a.so \
-    vendor/xiaomi/leo/proprietary/app/DataConnector/lib/arm64/liblenovo-xdelta.so:system/app/DataConnector/lib/arm64/liblenovo-xdelta.so \
-    vendor/xiaomi/leo/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant
+    vendor/xiaomi/leo/proprietary/app/DataConnector/lib/arm64/liblenovo-xdelta.so:system/app/DataConnector/lib/arm64/liblenovo-xdelta.so
