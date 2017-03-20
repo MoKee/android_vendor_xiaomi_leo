@@ -1105,5 +1105,3 @@ PRODUCT_PACKAGES += \
     libqmi \
     libtime_genoff \
     TimeService
-
-$(call inherit-product, vendor/qcom/binaries/msm8994/graphics/graphics-vendor.mk)
