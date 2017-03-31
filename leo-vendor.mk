@@ -49,6 +49,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/bin/ipacm-diag:system/bin/ipacm-diag \
     vendor/xiaomi/leo/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/xiaomi/leo/proprietary/bin/lowi-server:system/bin/lowi-server \
+    vendor/xiaomi/leo/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/xiaomi/leo/proprietary/bin/mmbn-daemon:system/bin/mmbn-daemon \
     vendor/xiaomi/leo/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
     vendor/xiaomi/leo/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
